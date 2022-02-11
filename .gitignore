@@ -1,0 +1,8 @@
+.ssl
+.env
+.vscode
+rest
+bin
+vendor
+*.log
+*.json
